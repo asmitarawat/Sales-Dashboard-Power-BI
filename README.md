@@ -29,11 +29,11 @@ Kaggle — Dataset source
 
 
 ### Dashboard Features
-**KPI Cards**           **Metric value**
-Total Sales                 $2.26M
-Total Orders                  5K
-Total Customers              793
-Avg Order Value            $459.48 
+**KPI Cards** and  **Metric value**:
+Total Sales:                 $2.26M,
+Total Orders:                 5K,
+Total Customers:              793,
+Avg Order Value:            $459.48 
 
 ### Visuals Built
 
@@ -92,7 +92,7 @@ Sales-Dashboard-PowerBI/
 ✅ Professional dashboard design & layout
 
 
-👤 Author
+#### Author
 Asmita Rawat
 📧 rawatasmita06@gmail.com
 🔗 https://www.linkedin.com/in/asmita-rawat05/
